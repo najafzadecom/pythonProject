@@ -7,5 +7,5 @@ def flatten(S):
 
 
 original_list = [[[1, 2], 3], [4], [5, 6], [7, [8, 9]]]
-print('Original List1', original_list)
-print('Transformed Flat List1', flatten(original_list))
+print('Original List', original_list)
+print('Transformed Flat List', flatten(original_list))
